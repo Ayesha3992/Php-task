@@ -1,0 +1,5 @@
+{
+    "require": {
+        "auth0/login": "^6.0"
+    }
+}
